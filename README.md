@@ -12,7 +12,7 @@ Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia call
 
 I am currently a graduate student in UCSD studying Statistics. Dedicated to be a Data Scientist.
 
-Languages and Tools:
+My Favourite Languages and Tools:
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
