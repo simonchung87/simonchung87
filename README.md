@@ -26,3 +26,16 @@ My Favourite Languages and Tools:
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"></code>
 <code><img height="40" src="https://spark.apache.org/images/scikit-learn.png"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></code>
+
+
+My Interest and Expertise:
+- Probability (Stochastic Processes - Brownian Motion, Markov Chain, etc.)
+- Statistics (Mathematical Statistics and Applied Statistics)
+- Machine Learning (Regression, Boosting, etc.)
+- Deep Learning 
+- Optimization (Metaheuristic Algorithm)
+
+
+
+
+ <a><img src="https://visitor-badge.glitch.me/badge?page_id=simonchung87" alt="visitors"></a>
