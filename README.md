@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/simon-chung-56b0941aa/">
 <img align="center" alt="Simon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  <a href="https://www.kaggle.com/simonchung">
+<img align="center" alt="Simon's Kaggle" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" />
+</a>
 </p>
 
 Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia called Taiwan🇹🇼, now living in San Diego🇺🇸. 
@@ -16,10 +19,10 @@ My Favourite Languages and Tools:
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="40" src="https://spark.apache.org/images/spark-logo-back.png"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"></code>
 <code><img height="40" src="https://spark.apache.org/images/scikit-learn.png"></code>
-<code><img height="40" src="https://spark.apache.org/images/spark-logo-back.png"></code>
-
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></code>
