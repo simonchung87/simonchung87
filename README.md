@@ -32,7 +32,7 @@ My Interest and Expertise:
 - Probability (Stochastic Processes - Brownian Motion, Markov Chain, etc.)
 - Statistics (Mathematical Statistics and Applied Statistics)
 - Machine Learning (Regression, Boosting, etc.)
-- Deep Learning 
+- Deep Learning (Image classification, Text mining, etc.)
 - Optimization (Metaheuristic Algorithm)
 
 
