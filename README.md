@@ -11,7 +11,7 @@
 </a>
 </p>
 
-Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia called Taiwan🇹🇼, now living in San Diego🇺🇸. 
+Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia called Taiwan, now living in San Diego. 
 
 I am currently a graduate student in UCSD studying Statistics. Dedicated to be a Data Scientist.
 
