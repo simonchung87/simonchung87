@@ -35,7 +35,10 @@ My Interest and Expertise:
 - Deep Learning (Image classification, Text mining, etc.)
 - Optimization (Metaheuristic Algorithm)
 
-
+My Latest Post:
+<ul>
+  <li><a href="https://medium.com/@simon05301998/how-to-set-up-a-remote-server-for-machine-learning-training-dd70f26d3877"><b>7 How to set up a remote server for machine learning training?</b></a><br/><i>/i></li>
+</ul>
 
 
  <a><img src="https://visitor-badge.glitch.me/badge?page_id=simonchung87.503123480" alt="visitors"></a>
