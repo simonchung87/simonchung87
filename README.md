@@ -41,4 +41,4 @@ My Latest Post:
 </ul>
 
 
- <a><img src="https://visitor-badge.glitch.me/badge?page_id=simonchung87.503123480" alt="visitors"></a>
+![](https://komarev.com/ghpvc/?username=simonchung87)
