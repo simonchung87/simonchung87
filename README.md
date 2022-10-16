@@ -37,7 +37,7 @@ My Interest and Expertise:
 
 My Latest Post:
 <ul>
-  <li><a href="https://medium.com/@simon05301998/how-to-set-up-a-remote-server-for-machine-learning-training-dd70f26d3877"><b>7 How to set up a remote server for machine learning training?</b></a><br/><i>/i></li>
+  <li><a href="https://medium.com/@simon05301998/how-to-set-up-a-remote-server-for-machine-learning-training-dd70f26d3877"><b>How to set up a remote server for machine learning training?</li>
 </ul>
 
 
