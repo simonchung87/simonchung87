@@ -33,7 +33,7 @@ My Interest and Expertise:
 - Statistics (Mathematical Statistics and Applied Statistics)
 - Machine Learning (Regression, Boosting, etc.)
 - Deep Learning (Image classification, Text mining, etc.)
-- Optimization (Metaheuristic Algorithm)
+- Optimization (Metaheuristic Algorithm, Convex Anlaysis)
 
 My Latest Post:
 <ul>
