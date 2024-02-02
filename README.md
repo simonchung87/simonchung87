@@ -4,7 +4,7 @@
   <img align="center" alt="Simon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/simon-chung-56b0941aa/">
-<img align="center" alt="Simon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="center" alt="Simon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
 </a>
   <a href="https://www.kaggle.com/simonchung">
 <img align="center" alt="Simon's Kaggle" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" />
@@ -13,7 +13,7 @@
 
 Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia called Taiwan, now living in San Diego. 
 
-I am currently a graduate student in UCSD studying Statistics. Dedicated to be a Data Scientist.
+I am currently a biostatistician in UAMS. I normally would say I am a mathematician before anything, cause that also representing my thought process whenever I encounter a problem.
 
 My Favourite Languages and Tools:
 
