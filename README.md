@@ -13,7 +13,7 @@
 
 Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia called Taiwan, now living in San Diego. 
 
-I am currently a biostatistician in UAMS. I normally would say I am a mathematician before anything, cause that also representing my thought process whenever I encounter a problem.
+I am currently working as a biostatistician in the Department of Biostatistics at University of Arkansas for Medical Sciences and Arkasnsas Children's Research Insititude. I normally would say I am a mathematician before anything, cause that how I approach a question when I hit one.
 
 My Favourite Languages and Tools:
 
