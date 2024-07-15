@@ -13,7 +13,7 @@
 
 Hello, vistors! This is Simon Chung. I came from a beautiful island in Asia called Taiwan, now living in Little Rock, AR. 
 
-I am currently working as a biostatistician in the Department of Biostatistics at University of Arkansas for Medical Sciences and Arkasnsas Children's Research Insititude. I normally would say I am a mathematician before anything, cause that's how I approach a question when I hit one.
+I am currently working as a biostatistician in the Department of Biostatistics at University of Arkansas for Medical Sciences and Arkasnsas Children's Research Insititude. I normally would say I am a mathematician by training, cause that's how I approach a question when I hit one.
 
 My Favourite Languages and Tools:
 
