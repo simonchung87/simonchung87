@@ -18,7 +18,7 @@ I am currently working as a biostatistician in the Department of Biostatistics a
 My Favourite Languages and Tools:
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="40" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 <code><img height="40" src="https://spark.apache.org/images/spark-logo-back.png"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
